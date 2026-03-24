@@ -16,6 +16,11 @@ namespace SOLID_Principles
     {
         void RecordVideo();
     }
+    public interface IStreamable
+    {
+        void StreamOn();
+        void StreamOff();
+    }
     public class SecurityCamera : ISwitchable, ICamera
     {
         public void TurnOn()
