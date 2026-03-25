@@ -3,47 +3,48 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
     // OCP (Open/Closed Principle)
-    public interface IDevice
-    {
-        void TurnOn();
-        void TurnOff();
-    }
-
     public class Light : IDevice
     {
-        public void TurnOn()
+        public bool TurnOn()
         {
             Console.WriteLine("The Light is Turinng On.....");
+            return true;
         }
-        public void TurnOff()
+        public bool TurnOff()
         {
             Console.WriteLine("The Light is Turinng Off.....");
+            return true;
         }
     }
     public class Fan : IDevice
     {
-        public void TurnOn()
+        public bool TurnOn()
         {
             Console.WriteLine("The Fan is Turinng On.....");
+            return true;
         }
-        public void TurnOff()
+        public bool TurnOff()
         {
             Console.WriteLine("The Fan is Turinng Off.....");
+            return true;
         }
     }
     public class AC : IDevice
     {
-        public void TurnOn()
+        public bool TurnOn()
         {
             Console.WriteLine("The AC is Turinng On.....");
+            return true;
         }
-        public void TurnOff()
+        public bool TurnOff()
         {
             Console.WriteLine("The AC is Turinng Off.....");
+            return true;
         }
     }
 

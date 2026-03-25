@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
@@ -12,14 +13,14 @@ namespace SOLID_Principles
         {
             // Single Responsibility Principle (SRP)
             Console.WriteLine("===== Single Responsibility Principle : =====");
-            Device device = new Device();
+            Device device = Device.GetInstance();
             device.TurnOn();
             device.TurnOff();
 
-            DeviceLogger logger = new DeviceLogger();
+            DeviceLogger logger = DeviceLogger.GetInstance();
             logger.Log();
 
-            NotificationService alert = new NotificationService();
+            NotificationService alert = NotificationService.GetInstance();
             alert.SendNotification();
 
             Console.WriteLine();

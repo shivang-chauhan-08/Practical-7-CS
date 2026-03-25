@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DIP.cs" />
+    <Compile Include="Interfaces\ICamera.cs" />
+    <Compile Include="Interfaces\IDevice.cs" />
+    <Compile Include="Interfaces\IStreamable.cs" />
+    <Compile Include="Interfaces\ISwitchable.cs" />
     <Compile Include="ISP.cs" />
     <Compile Include="LSP.cs" />
     <Compile Include="OCP.cs" />

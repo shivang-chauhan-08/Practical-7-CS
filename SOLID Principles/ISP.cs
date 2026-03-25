@@ -3,24 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
     // ISP (Interface Segrigation Principle)
-    public interface ISwitchable
-    {
-        void TurnOn();
-        void TurnOff();
-    }
-    public interface ICamera
-    {
-        void RecordVideo();
-    }
-    public interface IStreamable
-    {
-        void StreamOn();
-        void StreamOff();
-    }
     public class SecurityCamera : ISwitchable, ICamera
     {
         public void TurnOn()
