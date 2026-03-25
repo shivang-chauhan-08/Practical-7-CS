@@ -7,7 +7,35 @@ using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
-    // SRP (Single Responsibility Principle)
+    /// <summary>
+    /// Problem : Single class managing multiple responsibility
+    /// </summary>
+    
+    //public class Device
+    //{
+    //    public void TurnOn()
+    //    {
+    //        Console.WriteLine("Device Turning On....");
+    //    }
+    //    public void TurnOff()
+    //    {
+    //        Console.WriteLine("Device Turning Off....");
+    //    }
+    //    public void Log()
+    //    {
+    //        Console.WriteLine("Printing Log....");
+    //    }
+    //    public void SendNotification()
+    //    {
+    //        Console.WriteLine("Sending Notification....");
+    //    }
+    //}
+
+
+
+    /// <summary>
+    /// SRP (Single Responsibility Principle)
+    /// </summary>
     public class Device
     {
         private static Device instance;

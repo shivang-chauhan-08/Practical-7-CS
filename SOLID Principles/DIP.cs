@@ -7,7 +7,25 @@ using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
-    // DIP (Dependency Inversion Principle)
+    /// <summary>
+    /// Problem : entity depends on concrete class
+    /// </summary>
+
+    //public class SmartHomeController
+    //{
+    //    private Light _light = new Light();
+    //    public void OperateDevice()
+    //    {
+    //        _light.TurnOn();
+    //        _light.TurnOff();
+    //    }
+    //}
+
+
+
+    /// <summary>
+    /// DIP (Dependency Inversion Principle)
+    /// </summary>
     public class SmartHomeController
     {
         private IDevice _device;

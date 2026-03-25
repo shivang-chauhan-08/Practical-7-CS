@@ -7,7 +7,32 @@ using SOLID_Principles.Interfaces;
 
 namespace SOLID_Principles
 {
-    // OCP (Open/Closed Principle)
+    /// <summary>
+    /// Problem : To add new feature add specific methods in different class.
+    /// </summary>
+
+    //public class Light
+    //{
+    //    public bool TurnOn()
+    //    {
+    //        Console.WriteLine("The Light is Turinng On.....");
+    //        return true;
+    //    }
+    //}
+    //public class Fan
+    //{
+    //    public bool TurnOff()
+    //    {
+    //        Console.WriteLine("The Fan is Turinng Off.....");
+    //        return true;
+    //    }
+    //}
+
+
+
+    /// <summary>
+    /// OCP (Open/Closed Principle)
+    /// </summary>
     public class Light : IDevice
     {
         public bool TurnOn()
