@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\interfaces\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\interfaces\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\interfaces\\istreamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\interfaces\\istreamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c#\\c# practicles\\practical - 7\\solid principles\\solid principles\\interfaces\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF51715-EA7B-4ACC-A737-6165A4F32C14}|SOLID Principles\\SOLID Principles.csproj|solutionrelative:solid principles\\interfaces\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\Interfaces\\ISwitchable.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\ISwitchable.cs*",
+              "RelativeToolTip": "SOLID Principles\\Interfaces\\ISwitchable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:43:00.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStreamable.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\IStreamable.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\Interfaces\\IStreamable.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\IStreamable.cs*",
+              "RelativeToolTip": "SOLID Principles\\Interfaces\\IStreamable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\IDevice.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\Interfaces\\IDevice.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\IDevice.cs*",
+              "RelativeToolTip": "SOLID Principles\\Interfaces\\IDevice.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICamera.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\ICamera.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\Interfaces\\ICamera.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Interfaces\\ICamera.cs*",
+              "RelativeToolTip": "SOLID Principles\\Interfaces\\ICamera.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\DIP.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\DIP.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\DIP.cs*",
+              "RelativeToolTip": "SOLID Principles\\DIP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\ISP.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\ISP.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\ISP.cs*",
+              "RelativeToolTip": "SOLID Principles\\ISP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\LSP.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\LSP.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\LSP.cs*",
+              "RelativeToolTip": "SOLID Principles\\LSP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:56.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\OCP.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\OCP.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\OCP.cs*",
+              "RelativeToolTip": "SOLID Principles\\OCP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\SRP.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\SRP.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\SRP.cs*",
+              "RelativeToolTip": "SOLID Principles\\SRP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:48.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID Principles\\Program.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C#\\C# Practicles\\Practical - 7\\SOLID Principles\\SOLID Principles\\Program.cs",
+              "RelativeToolTip": "SOLID Principles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:42:07.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
